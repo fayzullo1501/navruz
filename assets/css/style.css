@@ -449,7 +449,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .mt-100 {
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .mb-15 {
@@ -531,7 +531,6 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   padding: 0 22px;
   text-transform: uppercase;
   font-size: 13px;
-  border-radius: 3px;
 }
 
 /* 2. Home 1 Header css here */
@@ -2610,7 +2609,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .slider_content h1 {
-    font-size: 63px;
+    font-size: 45px;
     line-height: 63px;
     margin-bottom: 23px;
   }
@@ -2677,7 +2676,6 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   padding: 0 45px;
   display: inline-block;
   text-transform: uppercase;
-  border-radius: 30px;
   height: 65px;
   line-height: 65px;
   background: inherit;
@@ -7637,6 +7635,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 /* 15. contact page css here */
 .contact_area {
   margin-bottom: 87px;
+  margin-top: 50px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .contact_area {
@@ -7739,9 +7738,6 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   margin-bottom: 0;
 }
 
-.contact_map {
-  margin-bottom: 97px;
-}
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .contact_map {
     margin-bottom: 76px;
@@ -9214,7 +9210,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   text-transform: capitalize;
   background: #333;
   font-weight: 500;
-  border-radius: 20px;
+  border-radius: 2px;
 }
 .blog_wrapper .blog_content .btn_more a:hover {
   background: #79a206;
